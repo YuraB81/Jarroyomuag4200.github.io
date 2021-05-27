@@ -11,7 +11,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll;
-  min-height: fit-content;
+  min-height:max-content;
 }
 
 #game {
