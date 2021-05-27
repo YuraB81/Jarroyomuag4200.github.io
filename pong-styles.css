@@ -7,11 +7,11 @@ html,
 body {
   padding: 0;
   margin: 0;
-  background-image: url(8bit_retro.gif);
+  background-image: url(8_Bit_Pixel.gif);
   background-repeat: no-repeat;
-  background-size:auto;
+  background-size:cover;
   background-attachment: scroll;
-  min-height:max-content;
+  min-height: 100%;
 }
 
 #game {
