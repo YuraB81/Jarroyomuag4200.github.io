@@ -9,10 +9,9 @@ body {
   margin: 0;
   background-image: url(8bit_retro.gif);
   background-repeat: no-repeat;
-  background-size:contain;
+  background-size: cover;
   background-attachment: scroll;
-  min-height: auto;
-  min-width: fit-content;
+  min-height: 100%;
 }
 
 #game {
