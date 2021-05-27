@@ -7,6 +7,11 @@ html,
 body {
   padding: 0;
   margin: 0;
+  background-image: url(8bit_retro.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  min-height: fit-content;
 }
 
 #game {
@@ -17,13 +22,13 @@ body {
 }
 
 #left-paddle {
-  background-color: green;
+  background-color: purple;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: blue;
+  background-color: green;
   right: 10px;
 }
 
