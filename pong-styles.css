@@ -9,7 +9,7 @@ body {
   margin: 0;
   background-image: url(8bit_retro.gif);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:auto;
   background-attachment: scroll;
   min-height:max-content;
 }
